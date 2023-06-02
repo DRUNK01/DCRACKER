@@ -1,5 +1,5 @@
 # DCRACKER
-<h1>DrunkCracker</h1>
+<h1>DCRACKER</h1>
 
 ````
 
@@ -25,12 +25,11 @@ pip install requests
 pip install bs4
 
 
-
 git clone https://github.com/DRUNK01/DrunkCracker.git
 
 
 
-cd DrunkCracker
+cd DCRACKER
 
 
 
